@@ -35,7 +35,7 @@ Week | Milestone
 **Week 1** | Data collection & cleaning complete
 **Week 2** | Analysis complete, insights drafted
 **Week 3** | Recommendations + dashboard built
-**Week 4** | Final presentation to CEO + plan kickoff
+**Week 3** | Final presentation to CEO + plan kickoff
 
 ### *7. Success Criteria 
 Analysis will be considered successful if it identifies:  
