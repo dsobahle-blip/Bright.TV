@@ -1,50 +1,66 @@
-BrightTV ‘s CEO has an objective to grow the company’s subscription base for this financial 
-year. He has approached me to provide insights that would assist CVM (Customer Value
-Management) team in meeting this year’s objective. 
-The dataset attached contains information on the user profiles and viewer transactions for
-BrightTV.
+# BrightTV Subscription Revenue Recovery & Growth Plan
+### 1. Business Challenge
 
- TV Subscription Revenue Declining: Analysis & Turnaround Plan*    
-
-### 1. Business Challenge*  
-We are experiencing a sustained decline in subscription revenue. This brief outlines the analysis plan to identify root causes and deliver a data-driven turnaround strategy within 30 days.
+BrightTV is experiencing a sustained decline in subscription revenue, driven by rising churn, underperforming content, and uneven regional penetration. If not addressed, this trend will continue to erode market share and profitability.
 
 ### 2. Objective
-Deliver clear insights on why subscription revenue is declining and provide actionable recommendations to restore growth.
 
-#### 3. Scope of Analysis 
- - Data Sources:* Subscriber billing, viewership logs, channel performance, provincial data, churn surveys  
-- Focus Areas:* Channel performance, time-slot effectiveness, provincial penetration, activation & churn drivers  
+# Deliver a data-driven diagnosis of revenue decline and execute a targeted turnaround plan to:
 
-### 4. Methodology & Tools
-    
-   *Phase       |  *Tool               | *Action 
- - Discovery    |   MIRO               | Map hypotheses, brainstorm drivers, align cross-functional workflows
- - Planning     |   CANVA              | Timeline, milestones, and deliverable tracking
- - Processing   |   Databricks + SQL   | Clean, aggregate, and model large datasets to isolate trends
- - Insights     |   Excel              | Build dashboards, visualizations, and reports from summarized data
+Achieve +15,000 net new subscriptions within 90 days
+Reduce churn by at least 10%
+Optimize content spend by reallocating investment to high-performing channels
 
- ### 5. Key Deliverables 
-1. *Root Cause Analysis* – Data-backed explanation of revenue decline  
-2. *Strategic Recommendations* – 10-point plan to fund winners, fix losers, and win back churn  
-3. *Contingency Turnaround Plan* – 90-day actions with KPIs and owners  
-4. *Executive Dashboard* – Weekly tracking of subs, activation, churn, and ROI by channel/province  
+### 3. Key Hypotheses
 
-### *6. Timeline  
-Week | Milestone
-**Week 1** | Data collection & cleaning complete
-**Week 2** | Analysis complete, insights drafted
-**Week 3** | Recommendations + dashboard built
-**Week 3** | Final presentation to CEO + plan kickoff
+# The analysis will focus on validating the following drivers of revenue decline:
 
-### *7. Success Criteria 
-Analysis will be considered successful if it identifies:  
-1. The 3 largest drivers of revenue loss  
-2. Channels/markets to invest in vs. exit  
-3. A path to +15k net subs and -10% content cost in 90 days  
+Churn is concentrated within specific provinces and customer segments
+Low-performing channels are reducing engagement and driving cancellations
+Content investment is misaligned with viewer demand
+Activation rates are declining due to onboarding friction or pricing inefficiencies
 
-### Next Step:* Approve plan to commence data collection immediately.
+### 4. Scope of Analysis
 
+# Data will be analyzed across the following dimensions:
 
-### FINAL REMARK:*  
-THESE RECOMMENDATIONS AIM TO ENHANCE VIEWER EXPERIENCE, DRIVE SUBSCRIPTIONS, AND POSITION OUR TV PLATFORMS FOR SUSTAINED GROWTH AND SUCCESS.
+Subscriber behavior: activation, engagement, and churn patterns
+Content performance: channel viewership, retention impact, and ROI
+Geographic trends: provincial penetration and growth opportunities
+Customer feedback: churn drivers from surveys and usage behavior
+
+### 5. Methodology
+
+# A structured analytics approach will be applied to ensure speed and accuracy:
+
+Data cleaning, validation, and aggregation across all sources
+Exploratory analysis to identify trends and anomalies
+Hypothesis testing to isolate root causes of revenue decline
+Modeling to quantify impact and prioritize opportunities
+
+### 6. Key Deliverables
+ 
+Revenue Bridge Analysis: Breakdown of revenue decline (churn, acquisition, ARPU)
+Churn Segmentation Model: Identification of high-risk customers
+Content ROI Analysis: Ranking of channels by engagement and profitability
+90-Day Action Plan: Prioritized initiatives with clear KPIs and ownership
+Executive Dashboard: Weekly tracking of subscriptions, churn, and ROI
+
+### 7. Timeline (30 Days)
+
+Week 1: Data acquisition, cleaning, and validation
+Week 2: Analysis and hypothesis testing
+Week 3: Insight development and recommendation design
+Week 4: Dashboard delivery, executive presentation, and implementation kickoff
+
+### 8. Success Criteria
+
+# This initiative will be successful if it clearly identifies:
+
+The top 3 drivers of revenue decline
+Channels and markets to scale, optimize, or exit
+A clear, actionable path to achieving subscription growth and cost efficiency targets
+
+### 9. Expected Outcome
+
+This program will identify revenue leakage, reallocate investment to high-impact areas, and establish a sustainable growth engine for BrightTV’s subscription business.
