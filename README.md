@@ -1,66 +1,116 @@
-# BrightTV Subscription Revenue Recovery & Growth Plan
-### 1. Business Challenge
+# 📺 BrightTV Subscription Analytics & Churn Reduction
 
-BrightTV is experiencing a sustained decline in subscription revenue, driven by rising churn, underperforming content, and uneven regional penetration. If not addressed, this trend will continue to erode market share and profitability.
+## 📌 Project Overview
 
-### 2. Objective
+BrightTV is experiencing a decline in subscription revenue. This project analyzes user behavior, subscription patterns, and revenue trends to uncover insights that support **Customer Value Management (CVM)** in reducing churn and driving growth.
 
-# Deliver a data-driven diagnosis of revenue decline and execute a targeted turnaround plan to:
+The solution combines **data analysis, SQL, and interactive visualization** to provide actionable business insights.
 
-Achieve +15,000 net new subscriptions within 90 days
-Reduce churn by at least 10%
-Optimize content spend by reallocating investment to high-performing channels
+---
 
-### 3. Key Hypotheses
+## 🎯 Business Objectives
 
-# The analysis will focus on validating the following drivers of revenue decline:
+* Identify key drivers of subscription decline
+* Analyze customer behavior and engagement
+* Detect high-risk churn segments
+* Recommend strategies to increase retention and revenue
 
-Churn is concentrated within specific provinces and customer segments
-Low-performing channels are reducing engagement and driving cancellations
-Content investment is misaligned with viewer demand
-Activation rates are declining due to onboarding friction or pricing inefficiencies
+---
 
-### 4. Scope of Analysis
+## 📊 Dataset Description
 
-# Data will be analyzed across the following dimensions:
+The dataset includes:
 
-Subscriber behavior: activation, engagement, and churn patterns
-Content performance: channel viewership, retention impact, and ROI
-Geographic trends: provincial penetration and growth opportunities
-Customer feedback: churn drivers from surveys and usage behavior
+* **User Profiles** (demographics, segments)
+* **Subscription Data** (plan type, renewal dates)
+* **Viewer Transactions** (engagement and usage patterns)
 
-### 5. Methodology
+---
 
-# A structured analytics approach will be applied to ensure speed and accuracy:
+## 🛠️ Tools & Technologies
 
-Data cleaning, validation, and aggregation across all sources
-Exploratory analysis to identify trends and anomalies
-Hypothesis testing to isolate root causes of revenue decline
-Modeling to quantify impact and prioritize opportunities
+* SQL (data extraction & transformation)
+* Excel / CSV (data handling)
+* Lovable (interactive dashboard creation)
+* GitHub (version control & documentation)
 
-### 6. Key Deliverables
- 
-Revenue Bridge Analysis: Breakdown of revenue decline (churn, acquisition, ARPU)
-Churn Segmentation Model: Identification of high-risk customers
-Content ROI Analysis: Ranking of channels by engagement and profitability
-90-Day Action Plan: Prioritized initiatives with clear KPIs and ownership
-Executive Dashboard: Weekly tracking of subscriptions, churn, and ROI
+---
 
-### 7. Timeline (22 Days)
+## 📈 Key Analysis Performed
 
-Week 1: Data acquisition, cleaning, and validation
-Week 2: Analysis and hypothesis testing
-Week 3: Insight development and recommendation design
-Week 4: Dashboard delivery, executive presentation, and implementation kickoff
+* Subscription trend analysis over time
+* Revenue breakdown by plan
+* Customer segmentation insights
+* Renewal and churn pattern analysis
+* Extended renewal date calculations using SQL
 
-### 8. Success Criteria
+---
 
-# This initiative will be successful if it clearly identifies:
+## 🔗 Interactive Dashboard
 
-The top 3 drivers of revenue decline
-Channels and markets to scale, optimize, or exit
-A clear, actionable path to achieving subscription growth and cost efficiency targets
+Explore the interactive visualization built with Lovable:
 
-### 9. Expected Outcome
+👉 [View Dashboard Repository](https://github.com/dsobahle-blip/gentle-viz-craft.git)
 
-This program will identify revenue leakage, reallocate investment to high-impact areas, and establish a sustainable growth engine for BrightTV’s subscription business.
+---
+
+### Dashboard Features
+
+* Line charts for subscription trends
+* Bar charts for plan performance
+* Customer segmentation views
+* KPI cards (Total Users, Revenue, Churn Rate)
+* Interactive filters (date, plan, segment)
+
+---
+
+## 🔍 Key Insights
+
+* Declining subscriptions are concentrated in specific customer segments
+* Certain plans underperform in both retention and revenue
+* Renewal gaps indicate potential churn risk
+* High-engagement users show stronger retention patterns
+
+---
+
+## 💡 Recommendations
+
+* Introduce targeted retention campaigns for high-risk segments
+* Optimize pricing or value proposition for underperforming plans
+* Leverage engagement data to personalize user experiences
+* Implement proactive renewal reminders and incentives
+
+---
+
+## 📁 Repository Structure
+
+```
+BrightTV/
+│── data/                # Raw and processed datasets  
+│── sql/                 # SQL queries and transformations  
+│── notebooks/           # Analysis (if applicable)  
+│── dashboard/           # Visualization assets  
+│── README.md            # Project documentation  
+```
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository
+2. Review SQL queries for data preparation
+3. Explore the dataset
+4. Open the dashboard link to interact with visual insights
+
+---
+
+## 📬 Contact
+
+For questions or collaboration, feel free to reach out.
+
+---
+
+## ⭐ Acknowledgements
+
+This project was developed to support BrightTV’s strategic goal of increasing subscription growth and reducing churn.
+
