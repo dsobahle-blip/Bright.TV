@@ -46,7 +46,7 @@ Content ROI Analysis: Ranking of channels by engagement and profitability
 90-Day Action Plan: Prioritized initiatives with clear KPIs and ownership
 Executive Dashboard: Weekly tracking of subscriptions, churn, and ROI
 
-### 7. Timeline (30 Days)
+### 7. Timeline (22 Days)
 
 Week 1: Data acquisition, cleaning, and validation
 Week 2: Analysis and hypothesis testing
